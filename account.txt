@@ -1,1 +1,1 @@
-Account Balance = 2000
+Account Balance = 2500
